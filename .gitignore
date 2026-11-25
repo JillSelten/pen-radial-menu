@@ -1,0 +1,8 @@
+# build output (wordt door build.ps1 gemaakt)
+dist/
+app.ico
+app.manifest
+
+# certificaten nooit committen
+*.pfx
+*.p12
